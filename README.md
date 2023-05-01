@@ -13,9 +13,11 @@
 <!-- ----- REACH ME ----- -->
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-<a align="center" href="https://www.linkedin.com/in/federico-montini-503975237/" >
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/federico-montini-503975237/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 
