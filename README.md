@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+</p>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
