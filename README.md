@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center">Bachelor degree in Computer Engineering <img src="./img/degree.png" width="30"> </p>
+<p align="center">Bachelor degree in Computer Engineering <img src="./img/degree.png" width="30" margin-top="2px"> </p>
 <p align="center">Currently studying MSc in Computer Engineering - Cybersecurity <img src="./img/study.png" width="25"> </p>
 
 <p align="center">
