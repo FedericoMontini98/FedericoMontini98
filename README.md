@@ -1,8 +1,24 @@
-### Hi there 👋
+<!-- ----- ABOUT ME ----- -->
+
+<h2 align="center">About me</h2>
+
+<p align="center">Bachelor degree in Computer Engineering</p>
+<p align="center">Currently studying MSc in Computer Engineering - Cybersecurity</p>
+<p align="center">Bachelor degree in Computer Engineering</p>
+
+<!-- ----- REACH ME ----- -->
+
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<a href="https://www.linkedin.com/in/federico-montini-503975237/" >
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 <p align="center">
   <img src="img/giphy.gif">
 </p>
+
+<!-- ----- STATS ----- -->
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -18,6 +34,8 @@
 </p> 
 
 <hr>
+
+<!-- ----- SKILLS ----- -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -38,18 +56,3 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-<!--
-**FedericoMontini98/FedericoMontini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
