@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+  <img src="img/giphy.gif">
 </p>
 
 <h2 align="center">
