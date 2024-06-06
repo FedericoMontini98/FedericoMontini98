@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 
 <p align="center">Bachelor degree in Computer Engineering</p>
-<p align="center">Currently studying MSc in Computer Engineering - Cybersecurity</p>
+<p align="center">MSc degree in Computer Engineering - Cybersecurity</p>
 
 <p align="center">
   <img src="img/giphy.gif">
